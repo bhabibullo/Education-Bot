@@ -12,7 +12,7 @@ from aiogram.client.session.aiohttp import AiohttpSession
 logging.basicConfig(level=logging.INFO)
 
 # Bot token
-bot_token = "7585178811:AAF78QnustEcEKizKkjgzJyZgMZJIQKg3o8"  # O'z bot tokeningizni qo'shing
+bot_token = "Your_Bot_Token"  #Add your own telegram bot api
 
 # Create a session
 session = AiohttpSession()
